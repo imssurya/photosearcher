@@ -1,1 +1,1 @@
-var apiKey = '17654198-43439692f8e505f2ca98cf699';
+var apiKey = 'api_key';
